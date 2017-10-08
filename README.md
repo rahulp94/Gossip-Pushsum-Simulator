@@ -1,4 +1,4 @@
-# Project2bonus
+# Project2
 
 **TODO: Add description**
 
